@@ -16,4 +16,4 @@
 # to run the two differt parts above ^^
 `node index`
 
-# notes:  I need to refactor the recusive loops.  I am not satisfied them.  
+# notes:  I need to refactor the recusive loops.  I am not satisfied them.
